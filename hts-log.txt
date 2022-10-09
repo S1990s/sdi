@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Mon, 10 Oct 2022 00:38:09 at https://romantic-talk.br.uptodown.com +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/بييي -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://romantic-talk.br.uptodown.com +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:38:13	Warning: 	Moved Permanently for https://romantic-talk.br.uptodown.com/
+00:38:13	Warning: 	File has moved from https://romantic-talk.br.uptodown.com/ to https://romantic-talk.br.uptodown.com/android
+00:38:33	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/1095784 (from https://romantic-talk.br.uptodown.com/android)
+00:38:37	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/br (from https://romantic-talk.br.uptodown.com/android)
+00:38:37	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/android/1095784 (from https://romantic-talk.br.uptodown.com/android/download)
+00:38:37	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/android/br (from https://romantic-talk.br.uptodown.com/android/download)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 16 links scanned, 10 files written (976969 bytes overall) [411911 bytes received at 14711 bytes/sec], 895709 bytes transferred using HTTP compression in 10 files, ratio 27%, 2.2 requests per connection
+(4 errors, 2 warnings, 0 messages)
